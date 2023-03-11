@@ -1,1 +1,2 @@
-main va week ne
+day la file week1
+cua main
