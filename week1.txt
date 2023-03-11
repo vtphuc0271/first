@@ -1,2 +1,2 @@
 day la file week1
-cua main
+sau khi sua cua main
